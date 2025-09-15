@@ -7,10 +7,10 @@ En esta sesión daremos una introducción teórico-práctica a la inferencia Bay
 
 ## Estructura del repositorio
 
-- `Bayes - 67RAAA Mendoza.pdf`: Slides de la sesión.
-- `1_intro_pymc.ipynb`: Notebook introductorio donde se explica el uso de PyMC con un modelo lineal.
-- `2_ejercicio_51pegb.ipynb`: Notebook para resolver un ejercicio de modelado bayesiano.
-- `51_peg_ELODIE_DRS-TACOS.rdb`: Archivo de datos para el notebook 2.
+- `slides/Bayes - 67RAAA Mendoza.pdf`: Slides de la sesión.
+- `notebooks/1_intro_pymc.ipynb`: Notebook introductorio donde se explica el uso de PyMC con un modelo lineal.
+- `notebooks/2_ejercicio_51pegb.ipynb`: Notebook para resolver un ejercicio de modelado bayesiano.
+- `data/51_peg_ELODIE_DRS-TACOS.rdb`: Archivo de datos para el notebook 2.
 - `readme.md`: Este archivo.
 
 ## Requisitos
